@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1463476409 source:c:\users\nagy3\desktop\interpreter\hash.c
+	"Hash.h"
+	<string.h>
+
+1463433447 c:\users\nagy3\desktop\interpreter\hash.h
+	<string.h>
+
+1463483842 source:c:\users\nagy3\desktop\interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hash.h"
+	"Infix.h"
+
+1463477162 source:c:\users\nagy3\desktop\interpreter\infix.c
+	"Infix.h"
+
+1463430224 c:\users\nagy3\desktop\interpreter\infix.h
+	"Stack.h"
+	<string.h>
+	<stdlib.h>
+
+1463431081 c:\users\nagy3\desktop\interpreter\stack.h
+
+1463431108 source:c:\users\nagy3\desktop\interpreter\stack.c
+	"Stack.h"
+
+1463439105 source:c:\users\nagy3\desktop\new folder\infix.c
+	"Infix.h"
+
+1463430224 c:\users\nagy3\desktop\new folder\infix.h
+	"Stack.h"
+	<string.h>
+	<stdlib.h>
+
+1463431081 c:\users\nagy3\desktop\new folder\stack.h
+
+1463437480 source:c:\users\nagy3\desktop\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hash.h"
+	"Infix.h"
+
+1463433447 c:\users\nagy3\desktop\new folder\hash.h
+	<string.h>
+
+1463431108 source:c:\users\nagy3\desktop\new folder\stack.c
+	"Stack.h"
+
+1463436367 source:c:\users\nagy3\desktop\new folder\hash.c
+	"Hash.h"
+	<string.h>
+
+1495326472 source:d:\cce\data structure\interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hash.h"
+	"Infix.h"
+
+1495298582 d:\cce\data structure\interpreter\hash.h
+	<string.h>
+
+1463433824 d:\cce\data structure\interpreter\infix.h
+	"Stack.h"
+	<string.h>
+	<stdlib.h>
+
+1463434681 d:\cce\data structure\interpreter\stack.h
+
+1495312660 source:d:\cce\data structure\interpreter\hash.c
+	"Hash.h"
+	<string.h>
+
+1463480762 source:d:\cce\data structure\interpreter\infix.c
+	"Infix.h"
+
+1463434708 source:d:\cce\data structure\interpreter\stack.c
+	"Stack.h"
+
+1495312660 source:e:\workspace\c\data structure\interpreter\hash.c
+	"Hash.h"
+	<string.h>
+
+1495298582 e:\workspace\c\data structure\interpreter\hash.h
+	<string.h>
+
+1463480762 source:e:\workspace\c\data structure\interpreter\infix.c
+	"Infix.h"
+
+1463433824 e:\workspace\c\data structure\interpreter\infix.h
+	"Stack.h"
+	<string.h>
+	<stdlib.h>
+
+1463434681 e:\workspace\c\data structure\interpreter\stack.h
+
+1463434708 source:e:\workspace\c\data structure\interpreter\stack.c
+	"Stack.h"
+
+1495326669 source:e:\workspace\c\data structure\interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hash.h"
+	"Infix.h"
+
